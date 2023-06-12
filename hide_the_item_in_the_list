@@ -1,0 +1,4 @@
+var item = document.querySelectorAll('.list-group-item');
+item[1].style.backgroundColor = 'green';
+
+item[2].style.visibility = 'hidden';
